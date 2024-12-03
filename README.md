@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning:** Redis and advanced .NET Core techniques.  
 - 💞️ **I’m looking to collaborate on:** Backend development projects, especially those involving APIs, databases, and clean architecture.  
 - 📫 **How to reach me:**  
-  - **Email:** [aborashedali14@gmail.com](aliaborashed31@gmail.com)  
+  - **Email:** [aliaborashed31@gmail.com](mailto:aliaborashed31@gmail.com)  
   - **LinkedIn:** [Ali Abo Rashed](https://www.linkedin.com/in/ali-abo-rashed)  
   - **GitHub:** [AliAboRashed11](https://github.com/AliAboRashed11)  
 - 😄 **Pronouns:** He/Him  
