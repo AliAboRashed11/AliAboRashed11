@@ -7,7 +7,7 @@
 - 📫 **How to reach me:**  
   - **Email:** [aliaborashed31@gmail.com](mailto:aliaborashed31@gmail.com)  
   - **LinkedIn:** [Ali Abo Rashed](https://www.linkedin.com/in/ali-abo-rashed)  
-  - **GitHub:** [AliAboRashed11](https://github.com/AliAboRashed11)  
+  
 
 
 <!---
