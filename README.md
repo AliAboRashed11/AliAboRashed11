@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliAboRashed&label=Profile%20views&color=0e75b6&style=flat" alt="AliAboRashed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AliAboRashed" target="blank"><img src="https://img.shields.io/twitter/follow/AliAboRashed?logo=twitter&style=for-the-badge" alt="AliAboRashed" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
