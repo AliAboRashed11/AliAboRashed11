@@ -13,7 +13,7 @@
 - 🌱 **Passionate about learning and development**, always striving to stay updated with the latest in tech.
 - 🚀 Eager to bring my technical skills to a forward-thinking company where I can contribute to innovative projects and grow alongside a talented team.
 - 🤝 Let's collaborate on impactful projects that create real-world solutions.
-- 📫 Feel free to reach out to me at: **aborashedali14@gmail.com**
+- 📫 Feel free to reach out to me at: **aliaborashed31@gmail.com**
 - 📄 Check out my <a href="https://drive.google.com/file/d/1OM9zmbn8RW724ncLoUzLZIVhK0oTIo4Q/view?usp=drive_link" target="blank">Resume</a>
 
 <h3 align="center">Let's Connect 🤝</h3>
