@@ -21,7 +21,9 @@ Copy code
   <a href="https://github.com/AliAboRashed11" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
   <a href="https://stackoverflow.com/users/29149969/ali-abo-rashed" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
   <a href="https://www.facebook.com/ali.aborashed.96?mibextid=ZbWKwL" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/facebook-new.png"></a>
-  <a href="https://wa.me/01202662188" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/40/000000/external-whatsapp-social-media-flat-flat-juicy-fish.png"></a>
+  <a href="https://wa.me/01202662188" target="_blank">
+  <img src="https://img.icons8.com/ios/50/000000/whatsapp.png" alt="WhatsApp">
+</a>
 </p>
 <!-- BLOG-POST-LIST:START -->
 
