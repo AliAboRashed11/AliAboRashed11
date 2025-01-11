@@ -10,7 +10,7 @@
 </a>
 
 - 💡 A driven **.NET Developer** with hands-on expertise in building powerful **ASP.NET Core**, **Entity Framework**, and **RESTful APIs**.
-- 🌱 Passionate about **Redis**, always striving to stay updated with the latest in tech.
+- 🌱 **Passionate about learning and development**, always striving to stay updated with the latest in tech.
 - 🚀 Eager to bring my technical skills to a forward-thinking company where I can contribute to innovative projects and grow alongside a talented team.
 - 🤝 Let's collaborate on impactful projects that create real-world solutions.
 - 📫 Feel free to reach out to me at: **aborashedali14@gmail.com**
