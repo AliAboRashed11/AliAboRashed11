@@ -1,5 +1,8 @@
+
+html
+Copy code
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AliAboRashed" target="blank">Ali Abo Rashed</a></h1>
-<h3 align="center">A passionate .NET Developer from Cairo, Egypt  🇪🇬</h3>
+<h3 align="center">A passionate and skilled .NET Developer from Cairo, Egypt 🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliAboRashed&label=Profile%20views&color=0e75b6&style=flat" alt="AliAboRashed" /> </p>
 
@@ -9,19 +12,22 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on .NET projects and seeking opportunities to work with companies.
+- 🔭 I am a highly motivated .NET Developer with hands-on experience in building robust and scalable applications using **C#**, **ASP.NET Core**, **Entity Framework**, and **SQL Server**. I am passionate about crafting clean, maintainable, and efficient code.
+  
+- 🌱 I am currently expanding my expertise by diving deeper into **Redis** for caching and exploring **Cloud Technologies** to stay on top of the latest trends in the development world.
 
-- 🌱 I’m currently learning Redis and Cloud Technologies.
+- 🛠 I specialize in building **RESTful APIs**, optimizing performance, and enhancing application security. I also work with **JWT Authentication** and **n-tier architectures** to build secure and scalable systems.
 
-- 🤝 I’m looking for full-time or part-time opportunities in companies.
+- 📈 I am actively looking for **full-time opportunities** or **collaborative projects** with companies where I can contribute my technical skills and grow alongside a talented team.
 
-- 💬 Ask me about **.NET Core, ASP.NET, Entity Framework, Redis**
+- 💬 Feel free to ask me about **.NET Core**, **ASP.NET MVC**, **Entity Framework**, **Redis**, **API Design**, or **Cloud Technologies**.
 
-- 📫 How to reach me **aborashedali14@gmail.com**
+- 📫 How to reach me: **aborashedali14@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OM9zmbn8RW724ncLoUzLZIVhK0oTIo4Q/view?usp=drive_link" target="blank">Resume</a>
+- 📄 For more details about my professional journey, check out my <a href="https://drive.google.com/file/d/1OM9zmbn8RW724ncLoUzLZIVhK0oTIo4Q/view?usp=drive_link" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
@@ -36,7 +42,6 @@
       </div>
 
 </p>
-
 
 
 <!-- BLOG-POST-LIST:START -->
