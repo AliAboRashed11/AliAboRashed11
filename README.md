@@ -1,9 +1,3 @@
-
-إليك النص المعدل ليكون مميزًا ومختصرًا:
-
-
-html
-Copy code
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AliAboRashed" target="blank">Ali Abo Rashed</a></h1>
 <h3 align="center">Passionate .NET Developer from Cairo, Egypt 🇪🇬</h3>
 
@@ -16,7 +10,7 @@ Copy code
 </a>
 
 - 💡 A driven **.NET Developer** with hands-on expertise in building powerful **ASP.NET Core**, **Entity Framework**, and **RESTful APIs**.
-- 🌱 Passionate about **Redis** and **Cloud Technologies**, always striving to stay updated with the latest in tech.
+- 🌱 Passionate about **Redis**, always striving to stay updated with the latest in tech.
 - 🚀 Eager to bring my technical skills to a forward-thinking company where I can contribute to innovative projects and grow alongside a talented team.
 - 🤝 Let's collaborate on impactful projects that create real-world solutions.
 - 📫 Feel free to reach out to me at: **aborashedali14@gmail.com**
