@@ -32,13 +32,12 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/29149969/ali-abo-rashed">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AliAboRashed/Me.io/blob/master/01AliAboRashedResume.pdf">
-					
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AliAboRashed/Me.io/blob/master/01AliAboRashedResume.pdf">				
       </div>
 
 </p>
 
-### Blogs posts
+
 
 <!-- BLOG-POST-LIST:START -->
 
