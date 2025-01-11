@@ -15,13 +15,11 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📝 I regularly write articles on [https://dev.to/AliAboRashed](https://dev.to/AliAboRashed)
-
 - 💬 Ask me about **.NET Core, ASP.NET, Entity Framework, Redis**
 
 - 📫 How to reach me **aborashedali14@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/AliAboRashed/Me.io/blob/master/01AliAboRashedResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1OM9zmbn8RW724ncLoUzLZIVhK0oTIo4Q/view?usp=drive_link" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -30,18 +28,12 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ali-abo-rashed/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AliAboRashed">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AliAboRashed11">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/ali-abo-rashed?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/AliAboRashed">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/ali_abo_rashed">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AliAboRashed">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/AliAboRashed/Me.io/blob/master/01AliAboRashedResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
@@ -52,9 +44,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Exploring Redis in .NET](https://dev.to/AliAboRashed/exploring-redis-in-net-4lnj)
-- [Building Scalable APIs with ASP.NET Core](https://dev.to/AliAboRashed/building-scalable-apis-with-asp-net-core-3jjp)
-- [Introduction to Clean Code Architecture](https://dev.to/AliAboRashed/introduction-to-clean-code-architecture-13kn)
+- [Exploring Redis in .NET](https://dev.to/AliAboRashed11/exploring-redis-in-net-4lnj)
+- [Building Scalable APIs with ASP.NET Core](https://dev.to/AliAboRashed11/building-scalable-apis-with-asp-net-core-3jjp)
+- [Introduction to Clean Code Architecture](https://dev.to/AliAboRashed11/introduction-to-clean-code-architecture-13kn)
 
 <!-- BLOG-POST-LIST:END -->
 
