@@ -9,11 +9,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on .NET projects and exploring freelancing opportunities.
+- 🔭 I’m currently working on .NET projects and seeking opportunities to work with companies.
 
 - 🌱 I’m currently learning Redis and Cloud Technologies.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m looking for full-time or part-time opportunities in companies.
 
 - 💬 Ask me about **.NET Core, ASP.NET, Entity Framework, Redis**
 
@@ -45,10 +45,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-Credit: [Ali Abo Rashed](https://github.com/AliAboRashed11)
-
-Last Edited on: 11/01/2025
   
 
 
