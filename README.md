@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/AliAboRashed" target="blank">Ali Abo Rashed</a></h1>
-<h3 align="center">A passionate .NET Developer from Gharbia, Egypt 🇪🇬</h3>
+<h3 align="center">A passionate .NET Developer from Cairo, Egypt  🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliAboRashed&label=Profile%20views&color=0e75b6&style=flat" alt="AliAboRashed" /> </p>
 
